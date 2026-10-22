@@ -1,0 +1,36 @@
+Vanilla                      seed 0: val RMSE 13.840  test RMSE 13.810
+Vanilla                      seed 1: val RMSE 13.791  test RMSE 13.997
+Vanilla                      seed 2: val RMSE 14.127  test RMSE 14.142
+Vanilla                      seed 3: val RMSE 13.858  test RMSE 13.816
+Vanilla                      seed 4: val RMSE 13.818  test RMSE 13.775
+Mixup (alpha=1, original default) seed 0: val RMSE 13.902  test RMSE 13.999
+Mixup (alpha=1, original default) seed 1: val RMSE 13.792  test RMSE 13.857
+Mixup (alpha=1, original default) seed 2: val RMSE 13.919  test RMSE 14.167
+Mixup (alpha=1, original default) seed 3: val RMSE 13.801  test RMSE 13.786
+Mixup (alpha=1, original default) seed 4: val RMSE 13.888  test RMSE 14.123
+Mixup (alpha=0.02, tuned)    seed 0: val RMSE 13.911  test RMSE 14.103
+Mixup (alpha=0.02, tuned)    seed 1: val RMSE 13.845  test RMSE 14.234
+Mixup (alpha=0.02, tuned)    seed 2: val RMSE 13.845  test RMSE 14.328
+Mixup (alpha=0.02, tuned)    seed 3: val RMSE 14.029  test RMSE 13.928
+Mixup (alpha=0.02, tuned)    seed 4: val RMSE 13.912  test RMSE 14.086
+Manifold Mixup (alpha=0.02, tuned) seed 0: val RMSE 13.897  test RMSE 14.190
+Manifold Mixup (alpha=0.02, tuned) seed 1: val RMSE 14.013  test RMSE 13.718
+Manifold Mixup (alpha=0.02, tuned) seed 2: val RMSE 13.985  test RMSE 14.130
+Manifold Mixup (alpha=0.02, tuned) seed 3: val RMSE 13.831  test RMSE 13.901
+Manifold Mixup (alpha=0.02, tuned) seed 4: val RMSE 13.958  test RMSE 14.079
+Global kNN (k=8)             seed 0: val RMSE 13.718  test RMSE 13.526
+Global kNN (k=8)             seed 1: val RMSE 13.592  test RMSE 13.722
+Global kNN (k=8)             seed 2: val RMSE 13.775  test RMSE 14.012
+Global kNN (k=8)             seed 3: val RMSE 13.627  test RMSE 14.002
+Global kNN (k=8)             seed 4: val RMSE 13.751  test RMSE 14.116
+Global Dist. (d=0.1)         seed 0: val RMSE 13.676  test RMSE 13.908
+Global Dist. (d=0.1)         seed 1: val RMSE 13.468  test RMSE 13.618
+Global Dist. (d=0.1)         seed 2: val RMSE 13.609  test RMSE 13.990
+Global Dist. (d=0.1)         seed 3: val RMSE 13.707  test RMSE 13.829
+Global Dist. (d=0.1)         seed 4: val RMSE 13.649  test RMSE 13.775
+RegMix                       seed 0: val RMSE 13.406  test RMSE 13.689
+RegMix                       seed 1: val RMSE 13.564  test RMSE 13.895
+RegMix                       seed 2: val RMSE 13.519  test RMSE 13.795
+RegMix                       seed 3: val RMSE 13.551  test RMSE 13.879
+RegMix                       seed 4: val RMSE 13.500  test RMSE 13.604
+DONE final

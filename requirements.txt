@@ -1,0 +1,9 @@
+# Runtime dependencies for the RegMix reproduction project.
+# Install in a virtual environment with: python -m pip install -r requirements.txt
+jax
+jaxlib
+optax
+numpy
+pandas
+scipy
+matplotlib
